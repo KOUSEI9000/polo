@@ -1,0 +1,11 @@
+1. What was easy?
+
+I can say that the easiest part was constructing the HTML structure because, as long as I can picture the layout I want to create, I can usually find a way to build it. However, using `<div>` elements and sections can also be somewhat confusing because of how they group and organize content. Despite that, I still find HTML structure easier than applying CSS.
+
+2. What was confusing?
+
+The most confusing part for me was applying CSS properties. I have a little background in CSS, but my knowledge is not yet very broad. I can use margin, padding, and other basic properties, but positioning elements is what often prevents me from achieving the design I have in mind. I find it frustrating when an element ends up somewhere I did not expect, becomes too large, or does not fit the layout I envisioned.
+
+3. What is one thing you would improve?
+
+I think I really need to understand CSS properties more deeply so I can use them to their full potential. I want to learn how different properties work and how I can design better websites. This will help me translate my ideas into actual designs and discover alternative ways to achieve a particular layout. To be honest, I was also surprised to learn that animations can be created by defining how they should behave in CSS. Because of this, I will do my best to improve my CSS skills while continuing to learn more about web development.
